@@ -5,4 +5,4 @@
 
 This is the pipeline that I developed to analyse the given data and build model.
 
-![SCR](images/Screenshot 2023-08-24 120000.png)
+![images/Screenshot 2023-08-24 120000.png]
