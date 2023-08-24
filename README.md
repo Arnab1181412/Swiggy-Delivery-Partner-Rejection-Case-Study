@@ -5,4 +5,4 @@
 
 This is the pipeline that I developed to analyse the given data and build model.
 
-![images/Screenshot 2023-08-24 120000.png]
+![image](https://github.com/Arnab1181412/Swiggy-Delivery-Partner-Rejection-Case-Study/blob/1ed4c98ae24b6a8b56b0b557c997a9fe5c6f338e/images/Screenshot%202023-08-24%20120000.png)
